@@ -1,6 +1,6 @@
 {
   "name": "feet-to-meter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "typescript": "^5.1.6",
     "vitest": "^0.33.0",
     "unit-convert-universal": "0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acarolos/feet-to-meter.git"
   }
 }
